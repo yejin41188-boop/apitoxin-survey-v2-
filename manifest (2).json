@@ -1,0 +1,23 @@
+{
+  "name": "APITOXIN 제품 소개",
+  "short_name": "아피톡신",
+  "description": "아피톡신주 제품 소개",
+  "start_url": "/apitoxin-survey-v2-/",
+  "scope": "/apitoxin-survey-v2-/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#17252a",
+  "theme_color": "#17252a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
